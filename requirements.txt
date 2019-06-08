@@ -1,0 +1,9 @@
+Flask
+gunicorn
+pandas
+numpy
+nltk
+xlrd
+scipy
+sklearn
+flask_cors
